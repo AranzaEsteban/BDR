@@ -1,10 +1,19 @@
-# <h3 style="text-align: center;"> UANL - FACULTAD DE CIENCIAS FISICO MATEAMTICAS</h3>
-
-# <h3 style="text-align: center;">  **Maestría en Ciencia de Datos**</h3>
+#  <p align="center"> UANL - FACULTAD DE CIENCIAS FISICO MATEAMTICAS</p>
 
 
 
-## <h3 style="text-align: center;"> Aranza Alejandra Esteban Avalos</h3>
+## <p align="center"> **Maestría en Ciencia de Datos:**</p>
+#### <p align="center"> *Bases de Datos Relacionales*</p>
+
+
+
+### <p align="center"> Aranza Alejandra Esteban Avalos</p>
+
+
+
+## Indice
+
+* [Tarea 1]() 
 
 
 
