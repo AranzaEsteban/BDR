@@ -1,9 +1,10 @@
 # Tarea 1
 
 
-## **Descripción y seleccion de BD**
 
-Selecione un conjunto de datos financieros que contiene 606 préstamos finalizados con éxito y 76 no finalizados,asi mismo anexada su información y transacciones.
+# **Descripción y seleccion de BD**
+
+Selecione un conjunto de [datos financieros](https://relational.fit.cvut.cz/dataset/Financial) que contiene 606 préstamos finalizados con éxito y 76 no finalizados,asi mismo anexada su información y transacciones.
 La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuales se relacionan por campos ID o claves foraneas. 
   
 
@@ -86,8 +87,11 @@ La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuale
  * district_id /int/
  * frecuency /varchar/
  * date /date/
+---------
+---------
 
-  
+
+
 
 ## **Investigacion SGBD**
 <table>
@@ -180,3 +184,18 @@ La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuale
 </table>
 
 ### Seleccion de SGBD
+
+Es el software que cumple en mayor medida de las funciones requeridas como su capacidad de procesamiento, velocidad, escalabilidad, seguridad y en relación costo/beneficio fue de las mejores opciones porque tambien cuenta con su versión gratuita. Por otro lado es una oprtunidad para aprender este nuevo lenguaje.
+
+
+## Descripción SGBD
+
+Pertenece a Oracle, es codigo abierto, tiene la capacidad de inslarse en diversos sistemas operativos, es un sistema de BD relacional y cuenta con soporte de 40-50 millones de registros.  
+
+# Referencias
+
+* [MySQL](https://www.dongee.com/tutoriales/caracteristicas-de-mysql/)
+* [SQL Server](https://intelequia.com/blog/post/qu%C3%A9-es-microsoft-sql-server-y-para-qu%C3%A9-sirve)
+* [Postegre SQL](https://www.ionos.com/digitalguide/server/know-how/postgresql/)
+* [SQLite](https://www.hostgator.mx/blog/sqlite-que-es-y-diferencias-con-mysql/)
+* [Oracle](https://www.ionos.com/digitalguide/server/know-how/postgresql/)
