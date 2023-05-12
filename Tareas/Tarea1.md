@@ -185,7 +185,7 @@ La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuale
 
 ### Seleccion de SGBD
 
-Es el software que cumple en mayor medida de las funciones requeridas como su capacidad de procesamiento, velocidad, escalabilidad, seguridad y en relación costo/beneficio fue de las mejores opciones porque tambien cuenta con su versión gratuita. Por otro lado es una oprtunidad para aprender este nuevo lenguaje.
+Elegí MySQL porque es el software que cumple en mayor medida de las funciones requeridas como su capacidad de procesamiento, velocidad, escalabilidad, seguridad y en relación costo/beneficio fue de las mejores opciones porque tambien cuenta con su versión gratuita. Por otro lado es una oprtunidad para aprender este nuevo lenguaje.
 
 
 ## Descripción SGBD
