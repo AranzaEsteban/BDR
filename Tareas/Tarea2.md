@@ -79,5 +79,5 @@ flowchart BT
     account ----> |N| district_id{ubicación} ---> |1|district
 ```
 
-## Referencias 
-* [Mermeid](https://mermaid.js.org) 
+## Recursos 
+* [Mermaid](https://mermaid.js.org) 

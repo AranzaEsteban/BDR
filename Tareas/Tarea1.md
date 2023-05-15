@@ -121,7 +121,7 @@ La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuale
     ¬ Capacidad limitada.  
     ¬ Utiliza mucho RAM.  
     ¬  Poco apoyo de soporte.  
-</td>
+  </td>
     </tr>
     <tr>
       <td>SQL Server</td>
@@ -151,7 +151,7 @@ La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuale
     ¬ Capacidad limitada
     ¬ Mas lento que otros software
     ¬ Poco apoyo para soporte</td> 
-</td>
+  </td>
     </tr>
     <tr>
       <td>SQLite</td>
