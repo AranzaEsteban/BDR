@@ -1,4 +1,4 @@
-#  <p align="center"> UANL - FACULTAD DE CIENCIAS FISICO MATEAMTICAS</p>
+#  <p align="center"> UANL - FACULTAD DE CIENCIAS FÍSICO MATEMÁTICAS</p>
 
 
 
