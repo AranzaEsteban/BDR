@@ -78,3 +78,6 @@ flowchart BT
     account --->|1| account_id1{tiene} --> |N|disp
     account ----> |N| district_id{ubicación} ---> |1|district
 ```
+
+## Referencias 
+* [Mermeid](https://mermaid.js.org) 
