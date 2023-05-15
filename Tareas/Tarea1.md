@@ -94,6 +94,8 @@ La infromaciòn se encuentra segementada en 8 diferententes tablas, de las cuale
 
 
 ## **Investigacion SGBD**
+
+
 <table>
   <thead>
     <tr>
