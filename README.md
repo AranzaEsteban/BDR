@@ -14,7 +14,7 @@
 ## Indice
 
 * [Tarea 1](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea1.md) 
-
+* [Tarea 2](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea2.md)
 
 
 
