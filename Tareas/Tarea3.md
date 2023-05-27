@@ -21,10 +21,10 @@
 ---
 title: Financial credit
 ---
-flowchart BT
+
 erDiagram
-    transactions_1k }|--o| account: belongs
-    transactions_1k{
+    trans }|--o| account: belongs
+    trans{
         int Trans_ID
         date date
         int Account_ID
@@ -109,4 +109,26 @@ erDiagram
 ## PARTE 3 
 ### <p align="center"> OPERACIONES DE ALGEBRA RELACIONAL </p>
 
-1. 
+1. . Obtener el ID de los clientes mayores a 30 años
+
+*∏* Client_ID(*σ* birth_date < 01/01/1990(Client))
+
+Se condiciono a que la fecha de nacimiento sea menor que 01/01/1990, contemplado que la BD es hasta el 2020 y se proyecta el clientID del resultado
+
+2. Obtener el District_ID de los prestamos > x
+
+*∏* district(*σ* paymentes > x(loan))
+
+Se proyecta el ID de las localidades cuando el valor de prestamos sea mayor a X
+
+3. Obtener las ordenes cuando la fecha de trasacciones  < x 
+
+*∏* Order_ID[ *∏* Account_ID( *σ* trans.date < XX/XX/XXXX (account)).Account_ID(trans*account)]
+
+Se proyecta los ID de las ordenes que tienen una fecha de transación < x
+
+4. Obtener clientes de genero femenino
+
+*∏* client(*σ* gender = "Female" (client))
+
+Se proyecta los clientes femeninos
