@@ -18,7 +18,7 @@
 * [Tarea 3](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea3.md)
 * [Tarea 4](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea4.sql)
 
-* [Tarea 5](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea5.sql)
+* [Tarea 5](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea5.md)
 
 
 
