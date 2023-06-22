@@ -50,7 +50,7 @@ SELECT amount FROM loan ORDER BY amount LIMIT 24,1;
 +--------+
 ```
 
-## Obtener cuartil diferente a la media
+## Obtener moda
 
 Para obtener este cálculo en un principio intenté hacer calculos muy laboriosos y complicados e investigue sobre funciones de percentiles, en como asiganar variables, combinar funciones y demas. Dentro de las funciones que fui viendo encontre la de *HAVING* que fue con la pude obtener el dato buscado y siendo precisa
 
