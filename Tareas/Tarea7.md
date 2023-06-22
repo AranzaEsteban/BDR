@@ -2,7 +2,11 @@
 
 En la tabla de clientes en la columna gender identifique valores de tipo pronombres o profesiones, por lo que tuve que hacer modificaciones en dicho atributo 
 
-##  Paso 1 
+## Hallazgos
+En un princio intente hacer los cambios con un *REPLACE* y con ayuda de variables pero no me convecia porque tendría que ingresar todas las columas y el valor por que buscaba reemplazar. En cuestion de optimización no me convencia porque era muy complejo y tomaba mucho tiempo por lo que busque nuevas opciones y encontre la función *CASE* que es común en varios leanguajes y con la que estoy mas familiarizada. A continuación muestro los pasos para hacer el cambio en mi BD 
+
+
+###  Paso 1 
 
 Identificar los campos únicos 
 
@@ -19,7 +23,7 @@ SELECT distinct gender FROM CLIENT;
 | Mrs.   |
 +--------+
 ```
-## Paso 2
+### Paso 2
 
 Hacer un UPDATE en la tabla correspondiente y utilizar un CASE para reemplazar el valor buscado 
 
@@ -34,7 +38,7 @@ Hacer un UPDATE en la tabla correspondiente y utilizar un CASE para reemplazar e
 
 ```
 
-## Paso 4
+### Paso 4
 Validar que los cambios sean correctos
 
 ```mysql
