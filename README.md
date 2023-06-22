@@ -20,5 +20,6 @@
 
 * [Tarea 5](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea5.md)
 
+* [Tarea 6](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea6.md)
 
-
+* [Tarea 7](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea7.md)
