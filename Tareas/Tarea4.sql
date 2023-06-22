@@ -81,7 +81,7 @@ VALUES
   (4, '2023-05-31', 4, 'JKL', 'XYZ', 400, 800, 'SYM4', 'Bank4'),
   (5, '2023-05-31', 5, 'MNO', 'XYZ', 500, 900, 'SYM5', 'Bank5');
 
-
+Disp_ID
 
 drop table if exists client;
 
@@ -142,13 +142,13 @@ CREATE TABLE orders (
   Order_ID INT PRIMARY KEY,
   Account_ID INT,
   bank_to VARCHAR(16),
-  account_to INT,
+  Disp_ID INT,
   amount DECIMAL,
   k_symbol VARCHAR(6),
   FOREIGN KEY (Account_ID) REFERENCES account(Account_ID)
 );
 
-INSERT INTO orders (Order_ID, Account_ID, bank_to, account_to, amount, k_symbol)
+INSERT INTO orders (Order_ID, Account_ID, bank_to, Disp_ID, amount, k_symbol)
 VALUES
   (1, 1, 'Bank1', 123456, 500.50, 'SYM1'),
   (2, 2, 'Bank2', 654321, 1000.75, 'SYM2'),
