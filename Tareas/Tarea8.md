@@ -69,4 +69,4 @@ BEGIN
     WHERE Account.Account_ID = NEW.Account_ID;
 END;
 ```
-
+[Codigo en MySQL](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea8.sql)
