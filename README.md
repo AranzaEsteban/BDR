@@ -25,3 +25,5 @@
 * [Tarea 7](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea7.md)
 
 * [Tarea 8](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea8.md)
+
+* [Tarea 9](https://github.com/AranzaEsteban/BDR/blob/master/Tareas/Tarea9.md)
